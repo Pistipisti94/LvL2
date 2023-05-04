@@ -1,0 +1,8 @@
+C:\Users\Demeter.Istvan.Tamas.BURG\source\repos\LvL2\Maximum\bin\Debug\Maximum.exe.config
+C:\Users\Demeter.Istvan.Tamas.BURG\source\repos\LvL2\Maximum\bin\Debug\Maximum.exe
+C:\Users\Demeter.Istvan.Tamas.BURG\source\repos\LvL2\Maximum\bin\Debug\Maximum.pdb
+C:\Users\Demeter.Istvan.Tamas.BURG\source\repos\LvL2\Maximum\obj\Debug\Maximum.csproj.AssemblyReference.cache
+C:\Users\Demeter.Istvan.Tamas.BURG\source\repos\LvL2\Maximum\obj\Debug\Maximum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Demeter.Istvan.Tamas.BURG\source\repos\LvL2\Maximum\obj\Debug\Maximum.csproj.CoreCompileInputs.cache
+C:\Users\Demeter.Istvan.Tamas.BURG\source\repos\LvL2\Maximum\obj\Debug\Maximum.exe
+C:\Users\Demeter.Istvan.Tamas.BURG\source\repos\LvL2\Maximum\obj\Debug\Maximum.pdb

@@ -1,0 +1,8 @@
+C:\Users\Demeter.Istvan.Tamas.BURG\source\repos\LvL2\Halmazok\bin\Debug\Halmazok.exe.config
+C:\Users\Demeter.Istvan.Tamas.BURG\source\repos\LvL2\Halmazok\bin\Debug\Halmazok.exe
+C:\Users\Demeter.Istvan.Tamas.BURG\source\repos\LvL2\Halmazok\bin\Debug\Halmazok.pdb
+C:\Users\Demeter.Istvan.Tamas.BURG\source\repos\LvL2\Halmazok\obj\Debug\Halmazok.csproj.AssemblyReference.cache
+C:\Users\Demeter.Istvan.Tamas.BURG\source\repos\LvL2\Halmazok\obj\Debug\Halmazok.csproj.SuggestedBindingRedirects.cache
+C:\Users\Demeter.Istvan.Tamas.BURG\source\repos\LvL2\Halmazok\obj\Debug\Halmazok.csproj.CoreCompileInputs.cache
+C:\Users\Demeter.Istvan.Tamas.BURG\source\repos\LvL2\Halmazok\obj\Debug\Halmazok.exe
+C:\Users\Demeter.Istvan.Tamas.BURG\source\repos\LvL2\Halmazok\obj\Debug\Halmazok.pdb

@@ -1,0 +1,8 @@
+C:\Users\Demeter.Istvan.Tamas.BURG\source\repos\LvL2\Lista feladat\bin\Debug\Lista feladat.exe.config
+C:\Users\Demeter.Istvan.Tamas.BURG\source\repos\LvL2\Lista feladat\bin\Debug\Lista feladat.exe
+C:\Users\Demeter.Istvan.Tamas.BURG\source\repos\LvL2\Lista feladat\bin\Debug\Lista feladat.pdb
+C:\Users\Demeter.Istvan.Tamas.BURG\source\repos\LvL2\Lista feladat\obj\Debug\Lista feladat.csproj.AssemblyReference.cache
+C:\Users\Demeter.Istvan.Tamas.BURG\source\repos\LvL2\Lista feladat\obj\Debug\Lista feladat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Demeter.Istvan.Tamas.BURG\source\repos\LvL2\Lista feladat\obj\Debug\Lista feladat.csproj.CoreCompileInputs.cache
+C:\Users\Demeter.Istvan.Tamas.BURG\source\repos\LvL2\Lista feladat\obj\Debug\Lista feladat.exe
+C:\Users\Demeter.Istvan.Tamas.BURG\source\repos\LvL2\Lista feladat\obj\Debug\Lista feladat.pdb

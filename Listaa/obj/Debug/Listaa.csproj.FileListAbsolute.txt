@@ -1,0 +1,8 @@
+C:\Users\Demeter.Istvan.Tamas.BURG\source\repos\LvL2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Demeter.Istvan.Tamas.BURG\source\repos\LvL2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Demeter.Istvan.Tamas.BURG\source\repos\LvL2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Demeter.Istvan.Tamas.BURG\source\repos\LvL2\ConsoleApp1\obj\Debug\Listaa.csproj.AssemblyReference.cache
+C:\Users\Demeter.Istvan.Tamas.BURG\source\repos\LvL2\ConsoleApp1\obj\Debug\Listaa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Demeter.Istvan.Tamas.BURG\source\repos\LvL2\ConsoleApp1\obj\Debug\Listaa.csproj.CoreCompileInputs.cache
+C:\Users\Demeter.Istvan.Tamas.BURG\source\repos\LvL2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Demeter.Istvan.Tamas.BURG\source\repos\LvL2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
